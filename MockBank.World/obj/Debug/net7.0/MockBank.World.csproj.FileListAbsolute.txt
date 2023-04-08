@@ -1,0 +1,15 @@
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.csproj.AssemblyReference.cache
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.AssemblyInfoInputs.cache
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.AssemblyInfo.cs
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.csproj.CoreCompileInputs.cache
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\bin\Debug\net7.0\MockBank.World.exe
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\bin\Debug\net7.0\MockBank.World.deps.json
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\bin\Debug\net7.0\MockBank.World.runtimeconfig.json
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\bin\Debug\net7.0\MockBank.World.dll
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\bin\Debug\net7.0\MockBank.World.pdb
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.dll
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\refint\MockBank.World.dll
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.pdb
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\MockBank.World.genruntimeconfig.cache
+C:\Users\ratar\OneDrive\Documentos\PROJECT\MockBank.Bank\MockBank.World\obj\Debug\net7.0\ref\MockBank.World.dll
